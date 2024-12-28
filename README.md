@@ -1,4 +1,4 @@
-# **Brazo Robótico 6GDL con Clasificación de Objetos por Visión Artificial**
+# **Implementación de un Brazo Robótico de 6 GDL con Visión Artificial y Algoritmo A* para la Clasificación Automatizada de Objetos por Color**
 
 ![Robotic Arm](https://github.com/VinsmokeTexMax/Robotic_AI_Class/blob/main/brazo.png?raw=true) <!-- Inserta aquí un enlace a una imagen ilustrativa del proyecto -->
 
@@ -95,7 +95,7 @@ Este proyecto presenta el diseño e implementación de un **brazo robótico de 6
 Proyecto desarrollado por:  
 **Santiago Jesus Marquez Calderon**  
 - Email: [smarquezc@unal.edu.co](mailto:smarquezc@unal.edu.co)  
-- GitHub: [VisnmokeTexMax]([https://github.com/TuUsuarioGitHub](https://github.com/VinsmokeTexMax))
+- GitHub: [VisnmokeTexMax](https://github.com/VinsmokeTexMax)
 - **Raul Ricardo Reales Cohen**  
 - Email: [rreales@unal.edu.co](mailto:rreales@unal.edu.co)  
 - **Erick Enrique Bastidas Santana**  
@@ -103,6 +103,3 @@ Proyecto desarrollado por:
 
 ---
 
-## **Licencia**
-
-Este proyecto está licenciado bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
