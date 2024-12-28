@@ -96,8 +96,10 @@ Proyecto desarrollado por:
 **Santiago Jesus Marquez Calderon**  
 - Email: [smarquezc@unal.edu.co](mailto:smarquezc@unal.edu.co)  
 - GitHub: [VisnmokeTexMax](https://github.com/VinsmokeTexMax)
+
 **Raul Ricardo Reales Cohen**  
 - Email: [rreales@unal.edu.co](mailto:rreales@unal.edu.co)  
+
 **Erick Enrique Bastidas Santana**  
 - Email: [erbastidass@unal.edu.co](mailto:erbastidass@unal.edu.co)  
 
